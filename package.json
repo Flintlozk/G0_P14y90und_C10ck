@@ -1,0 +1,20 @@
+{
+  "name": "g0_p14y90und_c10ck",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flintlozk/G0_P14y90und_C10ck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flintlozk/G0_P14y90und_C10ck/issues"
+  },
+  "homepage": "https://github.com/Flintlozk/G0_P14y90und_C10ck#readme",
+  "dependencies": {}
+}
